@@ -5,7 +5,6 @@
   font-size: 16px;
   line-height: 20px;
   margin: 0 auto;
-
 }
 
 .header {
@@ -48,8 +47,6 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: nowrap;
-
-
 }
 
 .header__title {
@@ -117,7 +114,6 @@
   margin: 0;
   color: #ffffff;
 }
-
 
 .staff__cards {
   display: flex;
@@ -270,7 +266,7 @@
 
 .person_name_tarter {
   top: 79px;
-  left: 159px; /
+  left: 159px;
 }
 
 .person__image {
@@ -389,12 +385,12 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+  gap: 10px;
 }
 
 .footer__social-icon {
   width: 16px;
   height: 16px;
-  margin-right: 10px;
 }
 
 .footer__copyright {
